@@ -1,6 +1,7 @@
 # Vue-Music-Player
 
-### A simple music player created with Vue JS + Typescript, 
+### A simple music player created with Vue JS + Typescript
+<img alt="AppPreview" src="https://i.imgur.com/63VaVii.png">
 
 ## Project setup
 ```
