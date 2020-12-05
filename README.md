@@ -1,4 +1,6 @@
-# typescript-app
+# Vue-Music-Player
+
+### A simple music player created with Vue JS + Typescript, 
 
 ## Project setup
 ```
